@@ -1,4 +1,4 @@
-<h2>Program walk-through:</h2>
+<h2>CompTIA Security+ Certification Status:</h2>
 
 <p align="center">
 Code for python script that will send out the customized email, with 2 emails of mine acting as sender and receiver of this email: <br/>
